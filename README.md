@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NoUserName-ForMe/Umar Hayat
+- 👋 Hi, I’m @Umar Hayat
 - 👀 I’m interested in ... Making good project
 - 🌱 I’m currently ... trying to improve 
 - 💞️ I’m looking to collaborate on ...
